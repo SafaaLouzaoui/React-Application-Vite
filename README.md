@@ -1,4 +1,4 @@
-# React + Vite (Dashboard)
+# Dashboard (React + Vite)
 ![Vite-React](https://github.com/SafaaLouzaoui/vite-project-Dashboard/assets/140024716/c56a8ab4-a35d-4eca-90b2-e545ae427c70)
 
 ## Project Overview
@@ -54,7 +54,7 @@ vite-project-dashboard/
 ## How to run this application Locally
    ```bash
     git clone git@github.com:SafaaLouzaoui/vite-project-Dashboard.git
-    cd your-project
+    cd vite-project-dashboard
     npm install
     npm run dev
  ```
