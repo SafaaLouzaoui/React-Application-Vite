@@ -8,7 +8,7 @@ The project is a dashboard that integrates a design mockup into a ReactJS applic
 ## Project Structure
 
 The project follows the following structure:
-
+ ```bash
 vite-project-dashboard/ 
 ├── dist/
 ├── node_modules/
@@ -50,7 +50,7 @@ vite-project-dashboard/
 ├── package.json
 ├── README.md 
 └── vite.config.js
-
+ ```
 ## How to run this application Locally
    ```bash
     git clone git@github.com:SafaaLouzaoui/vite-project-Dashboard.git
