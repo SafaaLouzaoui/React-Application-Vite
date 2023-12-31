@@ -53,8 +53,8 @@ React-Application-Vite/
  ```
 ## How to run this application Locally
    ```bash
-    git clone git@github.com:SafaaLouzaoui/vite-project-Dashboard.git
-    cd vite-project-dashboard
+    git clone git@github.com:SafaaLouzaoui/React-Application-Vite.git
+    cd React-Application-Vite
     npm install
     npm run dev
  ```
