@@ -9,7 +9,7 @@ The project is a dashboard that integrates a design mockup into a ReactJS applic
 
 The project follows the following structure:
  ```bash
-vite-project-dashboard/ 
+React-Application-Vite/ 
 ├── dist/
 ├── node_modules/
 ├── public/
